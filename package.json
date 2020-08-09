@@ -1,0 +1,19 @@
+{
+  "name": "vuejs-class-component",
+  "version": "1.0.0",
+  "description": "Create class based component in vue.js using plain JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "vue",
+    "class",
+    "based",
+    "component",
+    "java",
+    "script"
+  ],
+  "author": "Musarrat Ansari",
+  "license": "MIT"
+}
